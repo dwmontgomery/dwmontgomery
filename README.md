@@ -13,4 +13,4 @@ I have experience working with the following languages:
   <li>SQL</li>
 </ul>
 
-I like coding in Java the most out of the languages I am familiar with. I am also currently learning Rust as a side-endeavor but have not done any significant projects with it. 
+
